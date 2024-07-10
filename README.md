@@ -1,15 +1,25 @@
 2033210951 - Huỳnh Thanh Tâm
 
 
+
+https://github.com/huynhtam03/PTTKTT_2033210951_HUYNHTHANHTAM_BUOI01/assets/93908524/278f3505-5f10-424a-8409-cee9d4c02914
+
 SelectionSort
 ![selection](https://github.com/huynhtam03/PTTKTT_2033210951_HUYNHTHANHTAM_BUOI01/assets/93908524/3bf9458b-60d6-49f4-b596-17965edf2c70)
+
+
+https://github.com/huynhtam03/PTTKTT_2033210951_HUYNHTHANHTAM_BUOI01/assets/93908524/1c5ab93b-9d3e-47f6-ab9d-7f9b38cb5667
 
 MergeSort
 ![mergesort](https://github.com/huynhtam03/PTTKTT_2033210951_HUYNHTHANHTAM_BUOI01/assets/93908524/3059ca12-0657-4308-b79a-1f56ca68c801)
 
 
+https://github.com/huynhtam03/PTTKTT_2033210951_HUYNHTHANHTAM_BUOI01/assets/93908524/6385b041-2152-412b-a184-04a03bd85886
+
 QuickSort
 ![quicksort](https://github.com/huynhtam03/PTTKTT_2033210951_HUYNHTHANHTAM_BUOI01/assets/93908524/34b675cd-e710-4732-98cf-b115e36e0654)
+
+https://github.com/huynhtam03/PTTKTT_2033210951_HUYNHTHANHTAM_BUOI01/assets/93908524/714164a4-34d9-4930-b859-f5db58b6702f
 
 BinarySearch
 ![timkiem](https://github.com/huynhtam03/PTTKTT_2033210951_HUYNHTHANHTAM_BUOI01/assets/93908524/dcea8e43-9fc9-4fde-8678-406f62bd8133)
